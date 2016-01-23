@@ -1,5 +1,5 @@
 <?php
-namespace Astar;
+namespace Tvswe\Astar;
 
 class OpenList extends ClosedList
 {

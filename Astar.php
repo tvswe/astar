@@ -1,5 +1,5 @@
 <?php
-namespace Astar;
+namespace Tvswe\Astar;
 
 final class Astar
 {

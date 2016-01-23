@@ -1,5 +1,5 @@
 <?php
-namespace Astar;
+namespace Tvswe\Astar;
 
 class ListNode extends Node
 {

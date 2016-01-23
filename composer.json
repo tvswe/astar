@@ -1,0 +1,24 @@
+{
+    "name": "tvswe/astar",
+    "type": "library",
+    "description": "PHP A* library",
+    "keywords": [
+        "pathfinding"
+    ],
+    "homepage": "http://tvswe.eu/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tino Vogel",
+            "email": "tv.swe@gmx.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "/"
+        ]
+    }
+}
